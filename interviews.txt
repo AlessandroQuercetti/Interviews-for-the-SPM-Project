@@ -1,0 +1,300 @@
+1. Can you walk me through the last time you had to organize care for a relative (tasks, visits, meds)? How did you do it?
+The patient is a grandmother with Alzheimer's. I and the daughter-in-law were talking about her story from when she started to develop the disease to now. 
+Need someone available 24/7, ideally living with her.
+Tasks: prepare special meals (food blended, fed to her), hygiene (changing diapers several times a day), administer meds at precise times.
+Often one caregiver is not enough: moving her from bed to wheelchair requires two people.
+
+2. What was the hardest or most frustrating part of that process?
+Having a stranger living in the house as a caregiver.
+Watching the person decline daily (mobility, eating, speaking, recognizing people).
+Increasing limitations: cannot sit upright, cannot go outside for walks anymore.
+
+3. Have you ever had confusion about who was responsible for what? Can you tell me about it?
+Yes, several incidents:
+She ate a flower → swollen tongue, ER visit.
+She ate soap, dog biscuits, even Styrofoam.
+Responsibility was unclear: was it the caregiver’s fault or family’s?
+Like a small child: if you lose attention for 30 seconds, accidents happen.
+
+4. When you need help from a care provider, how do you usually reach out, and what works or doesn’t work?
+Bureaucracy is a huge problem: extremely slow processes.
+Example: it took a very long time to get 100% disability recognized for grandma.
+Medical tests sometimes didn’t show severity, delaying benefits.
+Similar delays with another grandpa.
+
+5. Who in your family should be able to see everything, and who shouldn’t?
+The sick person should not always see everything, especially if cognitively impaired.
+Not nice or useful for them to read all medical details.
+Sometimes children (if too young/sensitive) also shouldn’t see everything.
+
+6. If there was a shared family board/app, what’s the first thing it should show you to actually be useful?
+Contact numbers for relevant people/agencies.
+Example: for transportation to medical visits if no one drives.
+Easy way to know who to call for specific needs.
+
+7. What feature do you think would be useful for patient care?
+Opportunities for patients to spend time in activities: Manual work, Walks, Socializing with others to pass time.
+
+8. Is there something that would prevent you from using this app? (e.g., security risk?)
+No concerns: same as other apps, no risk perceived.
+
+9. Is there something you would want to add to this interview?
+Importance of having support from specialized doctors or qualified professionals.
+Family members alone find it very hard to face the emotional and practical challenges of watching a loved one deteriorate daily.
+
+
+
+
+Can we use the interview in our project ? (your name will not been shown) 
+YES
+
+About the participant 
+How old are you
+58
+
+Do you have a relative that receives help
+YES, MOTHER (AND FATHER FEW YEARS AGO)
+
+“Can you walk me through the last time you had to organize care for a relative (tasks, visits, meds)? How did you do it?”
+WE HAVE TO MANAGE THEM SEPARATELY. THERE ARE NO CONNECTIONS AMONG DOCTORS, HOSPITALS AND PLACES TO GO FOR THE SEVERAL VISITS. 
+
+“What was the hardest or most frustrating part of that process?”
+KEEP ALL THE THINGS UNDER CONTROL
+
+“Have you ever had confusion about who was responsible for what? Can you tell me about it?”
+WE DIDN'T HAVE ANY CONFUSION BECAUSE EVERY PERSON IN THE FAMILY IS INFORMED BUT SOMETIMES A BETTER CONNECTION WOULD BE USEFUL
+
+
+“When you need help from a care provider, how do you usually reach out, and what works or doesn’t work?”
+WE HAVE SOMERHING SIMILAR TO A NET AMONG FAMILIES. OBVIOUSLY IS VERY HELPFUL TO GET A TRUSTABLE PERSON BUT THE AMOUNT OF PEOPLE IN THIS CIRCLE IS LIMITED SO SOMETIMES IT IS NOT SO EASY TO FIND A CAREGIVER
+
+“Who in your family should be able to see everything, and who shouldn’t?
+I THINK THAT THE CLOSER RELATIVES SHOULD BE ABLE TO SEE EVERYTHING AND THAT PEOPLE DECIDE ON VISIBILITY
+
+“If there was a shared family board/app, what’s the first thing it should show you to actually be useful?”
+I THINK A DASHBOARD WITH INFORMATION ABOUT DRUGS, VISITS AND NOTES ABOUT THE PERSON. OBVIOUSLY THIS DASBOARD SHOULD BE PERSONALIZED
+
+What feature do you think would be useful for patient care?
+CONNECTION WITH SOME ALERT DEVICE A SUCH AS SENSORS, CAMS, HANDS FREE AUDIO DEVICE, ETC.
+
+Is there something that would prevent you from using this app? Fx security risk?
+I THINK THAT WOULDN'T THERE BIG REASONS TO NOT USE THE APP
+
+Is there something you would want to add to this interview?
+I THINK THAT IT COULD BE INTERESTING IF THE PLATFORM HAD A CONNECTION WITH THE MAIN CALENDAR APP SUCH AS MICROSOFT365 OR GOOGLE'S ENVIRONMENT. 
+I think it would also be interesting to have a system that isn't just for traditional caregivers but also for the complete management of family healthcare. Think about when a son had surgery, the mother had to organize everything. Maybe the platform could help.
+You could also add an AI mechanism that helps the doctors with the diagnosis, or that only does analysis and gives feedbacks. 
+
+
+
+Interview 1 – Family with a Child Requiring Daily Assistance
+
+1. Can you walk me through the last time you had to organize care for your child (tasks, visits, meds)? How did you do it?
+My son needs daily assistance for his condition.
+In the morning, I help him get dressed and take his medication before school.
+A support worker comes once a day to check on him, usually around lunchtime.
+In the evening, I need to prepare his special diet and supervise his therapy exercises.
+
+2. What was the hardest or most frustrating part of that process?
+Coordinating schedules with the school and the support worker.
+Sometimes the professional arrives late, which disrupts my work schedule.
+My son doesn’t always want to follow the therapy routine, so keeping him motivated is challenging.
+
+3. Have you ever had confusion about who was responsible for what? Can you tell me about it?
+Yes, sometimes between me, my partner, and the support worker.
+For example, once nobody gave him his afternoon medication because we each thought the other had done it.
+
+4. When you need help from a care provider, how do you usually reach out, and what works or doesn’t work?
+Usually I call the agency directly.
+It works, but sometimes they don’t answer right away, and I don’t know who else to call in urgent situations.
+
+5. Who in your family should be able to see everything, and who shouldn’t?
+Both parents should see everything.
+The child himself doesn’t need to see all medical notes, only a simplified version.
+Grandparents could have partial access, e.g., daily schedules but not medical details.
+
+6. If there was a shared family board/app, what’s the first thing it should show you to actually be useful?
+Daily schedule of tasks, medication reminders, and contact numbers.
+A quick “who is responsible today” overview.
+
+7. What feature do you think would be useful for patient care?
+A way to track progress in therapy exercises.
+Sharing notes or feedback between the family and the support worker.
+
+8. Is there something that would prevent you from using this app? (e.g., security risk?)
+Only if it was too complicated to use. Security is not a big concern.
+
+9. Is there something you would want to add to this interview?
+It would help to have some educational material for parents, so we know better how to support our child.
+
+
+
+
+Interview 2 – Care Staff Perspective
+
+1. Can you walk me through the last time you had to organize care for a patient? How did you do it?
+I visit several patients during the day.
+For one elderly patient, I prepared breakfast, checked blood pressure, gave morning medication, and helped with hygiene.
+Later, I had to assist another patient with mobility, transferring him from bed to wheelchair.
+I keep notes on paper for each visit, but it’s easy to lose track.
+
+2. What was the hardest or most frustrating part of that process?
+Time management: sometimes I have too many patients scheduled in one morning.
+Every family has different rules and expectations, which makes it difficult to adapt quickly.
+
+3. Have you ever had confusion about who was responsible for what? Can you tell me about it?
+Yes, often. For example, once I didn’t know whether the family or the agency was supposed to arrange transportation for a medical visit. The patient missed the appointment.
+
+4. When you need help from a care provider or agency, how do you usually reach out, and what works or doesn’t work?
+I usually call my coordinator at the agency.
+Sometimes they respond quickly, but if they are busy, I don’t get help in time.
+
+5. Who in the family should be able to see everything, and who shouldn’t?
+I think primary caregivers (usually children of the patient) should see everything.
+Other relatives could have limited access to avoid confusion.
+
+6. If there was a shared family board/app, what’s the first thing it should show you to actually be useful?
+Daily tasks assigned to me.
+Any special instructions (e.g., diet, behavior, allergies).
+Emergency contact numbers.
+
+7. What feature do you think would be useful for patient care?
+A log where I can quickly write what I did, what worked, and what problems I noticed.
+A way to alert the family immediately if something urgent happens.
+
+8. Is there something that would prevent you from using this app? (e.g., security risk?)
+No, unless it takes too much time to update. I need something quick and simple.
+
+9. Is there something you would want to add to this interview?
+Training for staff on how to use the app efficiently.
+Clear rules on who is responsible for updating which information.
+
+
+
+
+Interview (with Guðrún Ísberg)
+
+About the participant 
+·      
+How old are you 
+        	She is 59 years old
+ 
+·      
+Do you have a relative hat receives help 
+        	Not at the moment but she cared for her mother for at least 5 years or so
+before she died.
+ 
+·      
+“Can you walk me through the last time you had to organize care for a relative (tasks, visits,
+meds)? How did you do it?”
+        	Previous to the situation
+where she could barely do anything herself, it was
+        	just the siblings organizing tasks such as bathing, groceries, booking doctor       	appointments. They used Google Keep for groceries, so they could buy   groceries if they were at the store. Then they kept her company as much as        	possible. The organization was not really there, 2 of the siblings visited         	everyday so the tasks and daily struggles kind of fell on them. Sometimes
+        	groceries were bought by 2 different people. Guðrún and Ævar were both incredibly available so it worked out in this scenario. At a certain point things
+        	got worse so they needed to have home care, mostly to make sure she took her
+        	medicine. Then Guðrún would just call and book every appointment for her.
+ 
+·      
+“What was the hardest
+or most frustrating part of that process?”
+        	Managing this care with a full
+time job and children and a home of her own.
+        	The overwhelming responsibility to take care of someone. It was tiring.
+
+
+·      
+“Have you ever had
+confusion about who was responsible for what? Can you tell me about it?”
+        	Since, the patient was quite
+sentient and intelligent so she was able to call if
+        	she needed anything. So there never really was any organization in the first
+        	place.
+
+·      
+“When you need help
+from a care provider, how do you usually reach out, and what works or doesn’t
+work?”
+        	Guðrún would call if the
+patient needed a care provided. That would generally
+        	work pretty well. Heimahjúkrun would send someone every other morning.
+        	After she had many different procedures, no one called her in to the hospital.
+        	After they returned negative.
+
+
+
+“Who in your family
+should be able to see everything, and who shouldn’t?
+        	She believes that is the patients
+decision if the patient is well enough to make
+        	that decision. Otherwise there should be chosen 1 representative that gets full
+        	permission to look at her information. He could then share it or not with the
+        	others.
+
+
+
+“If there was a shared family board/app, what’s the first thing it should show you to actually be useful?”
+        	Grocery list, shared calendar
+to know who is available and what tasks need to
+        	be completed. So the family can see when she needs to go get her hair done,
+        	visit the doctor, needs bathing, or house cleaning, etc...    	Organizing and
+        	splitting the tasks between the rest of the people caring for her.  Weekly tasks
+        	made by the main caregiver. then Tasks could be up grabs if no one selects a
+        	certain task the system suggest the user that has selected and completed the
+        	fewest tasks that month. (notification to the least useful person) they can
+        	accept or reject and then notification to the second to least useful person. If
+        	there task that needs someone specific not everyone needs to be notified of
+        	that or able to select those (for example: bathing (patient would perhaps only
+        	be comfortable with certain people))
+
+·      
+What feature do you think would be useful for patient care?
+                    	Group chat, Making sure that tasks or home visits are actually completed, they
+        	        	had it happen once that the nurse that was supposed to come, did not, and no
+                    	one knew.  The family can make sure that the staff and family as well has                      	actually completed their tasks, since they worry about the patient
+ 
+·      
+Is there something that would prevent you from using this app? Fx security risk ? 
+        	If it was too complicated, if
+it is not secure enough for this sensitive
+        	information. It would need to be straight-forward and easy.
+·      
+Is there something you would want to add to this interview?
+        	perhaps communication and documentation for transportation for the patients
+        	that cannot drive and the family is at work or unavailable. She thinks this app
+        	could be useful if it is executed and developed correctly.
+
+
+How old are you 61
+
+
+Do you have a relative that receives help Not right now but I have had a relatives in a nursing home couple of years ago
+
+
+“Can you walk me through the last time you had to organize care for a relative (tasks, visits, meds)? How did you do it?” 
+Me being a staff on the nursing home and the nursing home being small, communication about my relatives were really easy.
+ 
+“What was the hardest or most frustrating part of that process?”
+ It was really complicated to be both a staff and a relative, and hard to separate when i was at work or a relative 
+
+
+“Have you ever had confusion about who was responsible for what? Can you tell me about it?No
+
+
+“When you need help from a care provider, how do you usually reach out, and what works or doesn’t work?” ( Þegar þú hefur þurft að fá hjálp frá heilbrigðisstarfsfólki, hvernig hefur þú getað haft samband við þau, hvað fannst þér virka og hvað ekki
+I could call any time, but it depended on the time of the call how quick they could answer/help me 
+“If there was a shared family board/app, what’s the first thing it should show you to actually be useful?”
+Having a Shared calendar, where everyone could see the patients schedule
+Information about how the patient is doing/feeling
+And if the patient needs anything 
+
+
+What feature do you think would be useful for patient care?
+Same as last question  
+
+
+Is there something that would prevent you from using this app? Fx security risk ? ( Hvað myndi hindra þig í að nota slíkt app? (t.d persónuvernd ?)
+It would the GDPR and a missing consent from the patient 
+
+
+Is there something you would want to add to this interview? (er eitthvað sem þú vilt bæta við ?) 
+It needs to really clear who can see what in the patients files, and that the patient has given consent to everything
