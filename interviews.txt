@@ -1,3 +1,5 @@
+Interview 1 
+
 1. Can you walk me through the last time you had to organize care for a relative (tasks, visits, meds)? How did you do it?
 The patient is a grandmother with Alzheimer's. I and the daughter-in-law were talking about her story from when she started to develop the disease to now. 
 Need someone available 24/7, ideally living with her.
@@ -43,7 +45,9 @@ Importance of having support from specialized doctors or qualified professionals
 Family members alone find it very hard to face the emotional and practical challenges of watching a loved one deteriorate daily.
 
 
+----------------------------------------------------------------------------
 
+Interview 2
 
 Can we use the interview in our project ? (your name will not been shown) 
 YES
@@ -85,9 +89,9 @@ I THINK THAT IT COULD BE INTERESTING IF THE PLATFORM HAD A CONNECTION WITH THE M
 I think it would also be interesting to have a system that isn't just for traditional caregivers but also for the complete management of family healthcare. Think about when a son had surgery, the mother had to organize everything. Maybe the platform could help.
 You could also add an AI mechanism that helps the doctors with the diagnosis, or that only does analysis and gives feedbacks. 
 
+----------------------------------------------------------------------------
 
-
-Interview 1 – Family with a Child Requiring Daily Assistance
+Interview 3 – Family with a Child Requiring Daily Assistance
 
 1. Can you walk me through the last time you had to organize care for your child (tasks, visits, meds)? How did you do it?
 My son needs daily assistance for his condition.
@@ -128,9 +132,9 @@ Only if it was too complicated to use. Security is not a big concern.
 It would help to have some educational material for parents, so we know better how to support our child.
 
 
+----------------------------------------------------------------------------------------
 
-
-Interview 2 – Care Staff Perspective
+Interview 4 – Care Staff Perspective
 
 1. Can you walk me through the last time you had to organize care for a patient? How did you do it?
 I visit several patients during the day.
@@ -169,10 +173,10 @@ No, unless it takes too much time to update. I need something quick and simple.
 Training for staff on how to use the app efficiently.
 Clear rules on who is responsible for updating which information.
 
+------------------------------------------------------------------------------
 
 
-
-Interview (with Guðrún Ísberg)
+Interview 5 (with Guðrún Ísberg)
 
 About the participant 
 ·      
@@ -263,6 +267,9 @@ Is there something you would want to add to this interview?
         	that cannot drive and the family is at work or unavailable. She thinks this app
         	could be useful if it is executed and developed correctly.
 
+--------------------------------------------------------------------------------------------------------
+
+Interview 6
 
 How old are you 61
 
